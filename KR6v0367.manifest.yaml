@@ -1,0 +1,582 @@
+canonical_identifier: bkk:krp/KR6v0367/v1
+canonical_location: https://kanripo.org/bkk/KR6v0367/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 密宗道次第廣論
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B10/B10n0068.xml
+    old_id: B10n0068
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0367_000.yaml, hash: 'sha256:f3b16c99aebcfabc8b6848487233bd1d86390d59e115fead8c20aca8859107bc'}
+  - {seq: 1, filename: KR6v0367_001.yaml, hash: 'sha256:19e5f6263a45edf3050349ce1bdfd3851b4762d72129f5899155fd91ad2abe8e'}
+  - {seq: 2, filename: KR6v0367_002.yaml, hash: 'sha256:b38ca011fb6bc6f29971d9ccad25dcf40f339cab6ff2c60aeb349ef77ad4f4fc'}
+  - {seq: 3, filename: KR6v0367_003.yaml, hash: 'sha256:93e1e3e62df1315a2eea4cbacbbc5b95bec3fa99a4bbf58829bc9dc2f4f4f14f'}
+  - {seq: 4, filename: KR6v0367_004.yaml, hash: 'sha256:58760747ddfea2c3eea7124346b07f54fc3cfa6b70598ead49508aebae418dc2'}
+  - {seq: 5, filename: KR6v0367_005.yaml, hash: 'sha256:46479aae5611fd008de9ddeb2e5ff62b259f807171c935383079012b4dca9c91'}
+  - {seq: 6, filename: KR6v0367_006.yaml, hash: 'sha256:33e34851cafaa3272ccec897136f58b287d0b6c032f96d20339335bb947a86d6'}
+  - {seq: 7, filename: KR6v0367_007.yaml, hash: 'sha256:dac078c416eb48563a79289f2b87170429834eed68764cfeb22f2bdecc18dec5'}
+  - {seq: 8, filename: KR6v0367_008.yaml, hash: 'sha256:9a1d4d5633231c7e2c8a976b014b3f164eabb940c3d5dbd956023766e1fd6ead'}
+  - {seq: 9, filename: KR6v0367_009.yaml, hash: 'sha256:a7e2ac589793fa3e4d47b0ffda7105c68bbc539102e6d9dbb5b5a3bddf0935b1'}
+  - {seq: 10, filename: KR6v0367_010.yaml, hash: 'sha256:4195dbf2c4a2e4aa0a6ef0259007491efa199fc123d129b0ba1b7b81e88abb35'}
+  - {seq: 11, filename: KR6v0367_011.yaml, hash: 'sha256:ba091c849d568aa22af230b934b62ea1885057dddd18243ad82fc0e19708eaee'}
+  - {seq: 12, filename: KR6v0367_012.yaml, hash: 'sha256:02e712c31706bbe8e435ad98f619ff76a95337cce82e83716365cf189c3bc458'}
+  - {seq: 13, filename: KR6v0367_013.yaml, hash: 'sha256:d349a541861c4a0030167d55e3a057f390f7f8a911e0c7c011f69addf47eb285'}
+  - {seq: 14, filename: KR6v0367_014.yaml, hash: 'sha256:f5cb9b50ac75b05510bf8df4507c09c9b4659e1f8a9b3f8030a25d6c7f30fd5d'}
+  - {seq: 15, filename: KR6v0367_015.yaml, hash: 'sha256:6f8e86302e285a515105f23bc4f21d803f92eb42e343eda4456203656c2c70a2'}
+  - {seq: 16, filename: KR6v0367_016.yaml, hash: 'sha256:e98aded842bd87734b52c60a05df7a7c59778591780d34607af88cbed744915e'}
+  - {seq: 17, filename: KR6v0367_017.yaml, hash: 'sha256:9826b800d3ae0136f19a60b113000aa5b0d5a45ee364ba03c8d8ea7850f50f16'}
+  - {seq: 18, filename: KR6v0367_018.yaml, hash: 'sha256:06415ff6e76c6b39de2833aaf387ef0c30ab642b2afe5d51a66181d9e2072766'}
+  - {seq: 19, filename: KR6v0367_019.yaml, hash: 'sha256:dff3a41397365a7acab6be4028818ee51e207cceb19c56b5794f2a13cf08178b'}
+  - {seq: 20, filename: KR6v0367_020.yaml, hash: 'sha256:69d8e3abc9efbe68ff67f80ee9d759eb74a3128d14f89c18f001f743cf72894f'}
+  - {seq: 21, filename: KR6v0367_021.yaml, hash: 'sha256:bfabc7591146c9e81ebd98747e382175d6819e5838d8a10847aeb2cec66d2279'}
+  - {seq: 22, filename: KR6v0367_022.yaml, hash: 'sha256:dbf2fface8917bffca77e2bcd1b8421e090868b95200e7fc610f5d071d409246'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0367_000.markers.yaml, hash: 'sha256:bed9b16ce6a09272134486f43786074ee7685428351049251f62247691038f54'}
+  - {seq: 1, role: markers, filename: assets/KR6v0367_001.markers.yaml, hash: 'sha256:a60cfe1eaa1371d899402f3b676b9fbc367acf03a3415bed16d69b69bea17b67'}
+  - {seq: 2, role: markers, filename: assets/KR6v0367_002.markers.yaml, hash: 'sha256:155ede4a28f5d0357a5749f61c230a5009a22a56fda76a3de31f2dad25dc29b9'}
+  - {seq: 3, role: markers, filename: assets/KR6v0367_003.markers.yaml, hash: 'sha256:bb1b04c48e3721fba70ca5d8160ec40b027ee1148abe2507d6b40780f21eb187'}
+  - {seq: 4, role: markers, filename: assets/KR6v0367_004.markers.yaml, hash: 'sha256:16c22efcd9041b717789283eb323bb4f5270656a03a7455fcb24af3e46f40591'}
+  - {seq: 5, role: markers, filename: assets/KR6v0367_005.markers.yaml, hash: 'sha256:1a433564032b0de490fa9ee597ad75e015112e72ee723c5b604a260e4507091a'}
+  - {seq: 6, role: markers, filename: assets/KR6v0367_006.markers.yaml, hash: 'sha256:1f1f3f296e25e8da76057aba8351d293ffcd86c1348f329aca44e970191b5deb'}
+  - {seq: 7, role: markers, filename: assets/KR6v0367_007.markers.yaml, hash: 'sha256:37c996e8ae57a91037751690c73c7405ea4721ed48cb5ccafd1ed3a6dcdccf4c'}
+  - {seq: 8, role: markers, filename: assets/KR6v0367_008.markers.yaml, hash: 'sha256:a68d9369ebfac49879eb2cde8aea9f4f22bc4c74572cf1dccd83f77db104a0eb'}
+  - {seq: 9, role: markers, filename: assets/KR6v0367_009.markers.yaml, hash: 'sha256:9560087d8551cb717baab1ba9abbe9e693d8c18b9c7cb288791c1c11a0a72c68'}
+  - {seq: 10, role: markers, filename: assets/KR6v0367_010.markers.yaml, hash: 'sha256:6c50462101a5efdf8b3caeebd1aa9e1a4af35452046287971f48eaf78173818f'}
+  - {seq: 11, role: markers, filename: assets/KR6v0367_011.markers.yaml, hash: 'sha256:f6a5e29c203fef9b8d97e0849b663964a8ba5bda19a66a1dadc0f713576e9321'}
+  - {seq: 12, role: markers, filename: assets/KR6v0367_012.markers.yaml, hash: 'sha256:7e0bf9512d2348c2434c107ab260d00e80a552a08cceb49a424d46de62680977'}
+  - {seq: 13, role: markers, filename: assets/KR6v0367_013.markers.yaml, hash: 'sha256:3c19463ebe137dc9c81929ad129fca9e388fe8a18d96fd04a44ad2174aa62990'}
+  - {seq: 14, role: markers, filename: assets/KR6v0367_014.markers.yaml, hash: 'sha256:ac92b151e8a6e5d5dac0fb104628b6b733e1cc9b268a931f893520449c84aa1c'}
+  - {seq: 15, role: markers, filename: assets/KR6v0367_015.markers.yaml, hash: 'sha256:a8049387884707136af88fd9fd0d89e5551f409fe4dea777977ccef14925d328'}
+  - {seq: 16, role: markers, filename: assets/KR6v0367_016.markers.yaml, hash: 'sha256:67f01f5a46ca93a2bade9509802c9eb4ebfe093d3d9285b68b517d46b9c20a41'}
+  - {seq: 17, role: markers, filename: assets/KR6v0367_017.markers.yaml, hash: 'sha256:ae669bcf453b07abdf296cf6b2f197eb285b4b23d40027ff33e9a161b6fbf184'}
+  - {seq: 18, role: markers, filename: assets/KR6v0367_018.markers.yaml, hash: 'sha256:4e2fdebc9e3144186f614310766e73f96faa9dbfe7380e6a73f6618b7a0ea569'}
+  - {seq: 19, role: markers, filename: assets/KR6v0367_019.markers.yaml, hash: 'sha256:c80c7baf24ccc71087a94f3b5861926b243bb1d68270e6b6c4329907d26a3387'}
+  - {seq: 20, role: markers, filename: assets/KR6v0367_020.markers.yaml, hash: 'sha256:b4258a9783cbe8255d3df7020c9f497a1de8eb503a83a01645b75928025ffba3'}
+  - {seq: 21, role: markers, filename: assets/KR6v0367_021.markers.yaml, hash: 'sha256:b9489dae32e5ec45a713e4560dc4af5963a0d4f4c8cab804ace57901d851c0c3'}
+  - {seq: 22, role: markers, filename: assets/KR6v0367_022.markers.yaml, hash: 'sha256:b06df2ba784323a97f195e2e79238e2c2b7a81d5b50aab9d5e9e2fdec735c80a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0367_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 科文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0367_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 9276
+  label: 密宗道次第廣論卷一原名　勝徧主大金剛持道次第開顯一切密要論
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0367_B_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 總明入聖教次第不同諸門品第一之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0367_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 8843
+  label: 密宗道次第廣論卷二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0367_B_002-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 總明入聖教次第不同諸門品第一之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0367_B_003-juan-start
+    span:
+    - body
+    - 0
+    - 10175
+  label: 密宗道次第廣論卷三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0367_B_003-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 事部道次第品第二之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0367_B_004-juan-start
+    span:
+    - body
+    - 0
+    - 10042
+  label: 密宗道次第廣論卷四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0367_B_004-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 事部道次第品第二之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0367_B_005-juan-start
+    span:
+    - body
+    - 0
+    - 11000
+  label: 密宗道次第廣論卷五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0367_B_005-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 行部道次第品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0367_B_005-mulu-2
+    span:
+    - body
+    - 3404
+    - 3404
+  label: 瑜伽部道次第品第四之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0367_B_006-juan-start
+    span:
+    - body
+    - 0
+    - 10359
+  label: 密宗道次第廣論卷六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0367_B_006-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 瑜伽部道次第品第四之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0367_B_006-mulu-2
+    span:
+    - body
+    - 2121
+    - 2121
+  label: 了知道要承事為先修地法品第五之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0367_B_007-juan-start
+    span:
+    - body
+    - 0
+    - 9996
+  label: 密宗道次第廣論卷七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0367_B_007-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 了知道要承事為先修地法品第五之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0367_B_008-juan-start
+    span:
+    - body
+    - 0
+    - 10201
+  label: 密宗道次第廣論卷八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0367_B_008-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 預備儀軌次第品第六之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0367_B_009-juan-start
+    span:
+    - body
+    - 0
+    - 11101
+  label: 密宗道次第廣論卷九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0367_B_009-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 明預備儀軌次第品第六之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0367_B_010-juan-start
+    span:
+    - body
+    - 0
+    - 9016
+  label: 密宗道次第廣論卷十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0367_B_010-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 明預備儀軌次第品第六之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0367_B_010-mulu-2
+    span:
+    - body
+    - 6984
+    - 6984
+  label: 繪修供養曼陀羅儀軌次第品第七之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0367_B_011-juan-start
+    span:
+    - body
+    - 0
+    - 10792
+  label: 密宗道次第廣論卷十一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0367_B_011-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 繪修供養曼陀羅儀軌次第品第七之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0367_B_012-juan-start
+    span:
+    - body
+    - 0
+    - 10549
+  label: 密宗道次第廣論卷十二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0367_B_012-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 自入壇受灌頂次令弟子入壇次第品第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6v0367_B_013-juan-start
+    span:
+    - body
+    - 0
+    - 11108
+  label: 密宗道次第廣論卷十三
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6v0367_B_013-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 明瓶灌頂儀軌次第品第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6v0367_B_013-mulu-2
+    span:
+    - body
+    - 9912
+    - 9912
+  label: 明上三灌頂後依及結行儀軌品第十之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6v0367_B_014-juan-start
+    span:
+    - body
+    - 0
+    - 11610
+  label: 密宗道次第廣論卷十四
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6v0367_B_014-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 明上三灌頂後依及結行儀軌品第十之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6v0367_B_015-juan-start
+    span:
+    - body
+    - 0
+    - 10621
+  label: 密宗道次第廣論卷十五
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6v0367_B_015-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 明上三灌頂後依及結行儀軌品第十之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6v0367_B_015-mulu-2
+    span:
+    - body
+    - 8755
+    - 8755
+  label: 明須二種次第雙運修大菩提品第十一之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6v0367_B_016-juan-start
+    span:
+    - body
+    - 0
+    - 8759
+  label: 密宗道次第廣論卷十六
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6v0367_B_016-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 明須二種次第雙運修大菩提品第十一之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6v0367_B_017-juan-start
+    span:
+    - body
+    - 0
+    - 9377
+  label: 密宗道次第廣論卷十七
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6v0367_B_017-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 明生起次第品第十二之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6v0367_B_018-juan-start
+    span:
+    - body
+    - 0
+    - 9622
+  label: 密宗道次第廣論卷十八
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6v0367_B_018-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 明生起次第品第十二之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6v0367_B_019-juan-start
+    span:
+    - body
+    - 0
+    - 8540
+  label: 密宗道次第廣論卷十九
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6v0367_B_019-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 明生起次第品第十二之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6v0367_B_020-juan-start
+    span:
+    - body
+    - 0
+    - 10638
+  label: 密宗道次第廣論卷二十
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6v0367_B_020-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 圓滿次第總建立品第十三之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6v0367_B_021-juan-start
+    span:
+    - body
+    - 0
+    - 9175
+  label: 密宗道次第廣論卷二十一
+  type: juan
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6v0367_B_021-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 圓滿次第總建立品第十三之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6v0367_B_021-mulu-2
+    span:
+    - body
+    - 4141
+    - 4141
+  label: 明最初修圓滿次第與諸行及道果之次第品第十四之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6v0367_B_022-juan-start
+    span:
+    - body
+    - 0
+    - 8871
+  label: 密宗道次第廣論卷二十二
+  type: juan
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6v0367_B_022-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 明最初修圓滿次第與諸行及道果之次第品第十四之二
+  type: mulu
+  level: 1
+hash: sha256:2598a53ba71abafdb7d4034d1aac075aa39b866dd281aa26ea111bddd10d1c21
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
